@@ -20,6 +20,6 @@ Part 4: Managing Repositories & Troubleshooting.
 * It deletes cached package files from /var/cache/apt/archives to free up space.
 
 Part 4: Managing Repositories & Troubleshooting
-*This file contains URLs of package repositories.
-*The universe repository contains community-maintained open-source software.
-*I tried installing non existing packege and i get "E: Unable to locate package fakepackage" this message. To troubleshoot this issue I will Check for typos in the package name, run sudo apt update to refresh package lists, search for the correct package name using apt search.
+* This file contains URLs of package repositories.
+* The universe repository contains community-maintained open-source software.
+* I tried installing non existing packege and i get "E: Unable to locate package fakepackage" this message. To troubleshoot this issue I will Check for typos in the package name, run sudo apt update to refresh package lists, search for the correct package name using apt search.
