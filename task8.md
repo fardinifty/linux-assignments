@@ -78,4 +78,5 @@ This firewall configuration successfully secures the server by:
 - Blocking unauthorized access.
 - Protecting against SYN flood and other common attacks.
 - Providing detailed logging for security monitoring.
+![image](https://github.com/user-attachments/assets/9444d937-5a0f-4be9-8de5-01c7062266d6)
 
